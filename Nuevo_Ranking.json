@@ -1,0 +1,486 @@
+[
+  {
+    "codigo_pais": 19,
+    "nombre_pais": " Hungría",
+    "jugadores": [
+      {
+        "nombre": "Sándor Kocsis",
+        "ranking": 11,
+        "ranking_eficiencia": 1
+      },
+      {
+        "nombre": "Imre Schlosser",
+        "ranking": 36,
+        "ranking_eficiencia": 5
+      }
+    ]
+  },
+  {
+    "codigo_pais": 2,
+    "nombre_pais": " Alemania Federal",
+    "jugadores": [
+      {
+        "nombre": "Gerd Müller",
+        "ranking": 23,
+        "ranking_eficiencia": 2
+      }
+    ]
+  },
+  {
+    "codigo_pais": 26,
+    "nombre_pais": " Japón",
+    "jugadores": [
+      {
+        "nombre": "Kunishige Kamamoto",
+        "ranking": 12,
+        "ranking_eficiencia": 3
+      },
+      {
+        "nombre": "Kazuyoshi Miura",
+        "ranking": 46,
+        "ranking_eficiencia": 22
+      }
+    ]
+  },
+  {
+    "codigo_pais": 20,
+    "nombre_pais": " Hungría/ España",
+    "jugadores": [
+      {
+        "nombre": "Ferenc Puskás",
+        "ranking": 4,
+        "ranking_eficiencia": 4
+      }
+    ]
+  },
+  {
+    "codigo_pais": 16,
+    "nombre_pais": " Federación Malaya/ Malasia",
+    "jugadores": [
+      {
+        "nombre": "Abdul Ghani Minhat",
+        "ranking": 34,
+        "ranking_eficiencia": 6
+      }
+    ]
+  },
+  {
+    "codigo_pais": 8,
+    "nombre_pais": " Brasil",
+    "jugadores": [
+      {
+        "nombre": "Pelé",
+        "ranking": 10,
+        "ranking_eficiencia": 7
+      },
+      {
+        "nombre": "Romário",
+        "ranking": 45,
+        "ranking_eficiencia": 8
+      },
+      {
+        "nombre": "Ronaldo Nazario",
+        "ranking": 31,
+        "ranking_eficiencia": 17
+      },
+      {
+        "nombre": "Neymar",
+        "ranking": 22,
+        "ranking_eficiencia": 27
+      }
+    ]
+  },
+  {
+    "codigo_pais": 13,
+    "nombre_pais": " Emiratos Arabes Unidos",
+    "jugadores": [
+      {
+        "nombre": "Ali Mabkhout",
+        "ranking": 7,
+        "ranking_eficiencia": 9
+      }
+    ]
+  },
+  {
+    "codigo_pais": 27,
+    "nombre_pais": " Kuwait",
+    "jugadores": [
+      {
+        "nombre": "Jasem Al-Huwaidi",
+        "ranking": 30,
+        "ranking_eficiencia": 10
+      },
+      {
+        "nombre": "Bashar Abdullah",
+        "ranking": 13,
+        "ranking_eficiencia": 33
+      }
+    ]
+  },
+  {
+    "codigo_pais": 24,
+    "nombre_pais": " Irán",
+    "jugadores": [
+      {
+        "nombre": "Ali Daei",
+        "ranking": 2,
+        "ranking_eficiencia": 11
+      }
+    ]
+  },
+  {
+    "codigo_pais": 39,
+    "nombre_pais": " Zambia",
+    "jugadores": [
+      {
+        "nombre": "Godfrey Chitalu",
+        "ranking": 8,
+        "ranking_eficiencia": 12
+      }
+    ]
+  },
+  {
+    "codigo_pais": 36,
+    "nombre_pais": " Tailandia",
+    "jugadores": [
+      {
+        "nombre": "Piyapong Pue-on",
+        "ranking": 19,
+        "ranking_eficiencia": 13
+      },
+      {
+        "nombre": "Kiatisuk Senamuang",
+        "ranking": 17,
+        "ranking_eficiencia": 36
+      }
+    ]
+  },
+  {
+    "codigo_pais": 6,
+    "nombre_pais": " Bélgica",
+    "jugadores": [
+      {
+        "nombre": "Romelu Lukaku",
+        "ranking": 24,
+        "ranking_eficiencia": 14
+      }
+    ]
+  },
+  {
+    "codigo_pais": 30,
+    "nombre_pais": " Maldivas",
+    "jugadores": [
+      {
+        "nombre": "Ali Ashfaq",
+        "ranking": 39,
+        "ranking_eficiencia": 15
+      }
+    ]
+  },
+  {
+    "codigo_pais": 21,
+    "nombre_pais": " India",
+    "jugadores": [
+      {
+        "nombre": "Sunil Chhetri",
+        "ranking": 6,
+        "ranking_eficiencia": 16
+      }
+    ]
+  },
+  {
+    "codigo_pais": 22,
+    "nombre_pais": " Indonesia",
+    "jugadores": [
+      {
+        "nombre": "Abdul Kadir",
+        "ranking": 20,
+        "ranking_eficiencia": 18
+      },
+      {
+        "nombre": "Iswadi Idris",
+        "ranking": 48,
+        "ranking_eficiencia": 31
+      }
+    ]
+  },
+  {
+    "codigo_pais": 28,
+    "nombre_pais": " Malasia",
+    "jugadores": [
+      {
+        "nombre": "Mokhtar Dahari",
+        "ranking": 3,
+        "ranking_eficiencia": 19
+      }
+    ]
+  },
+  {
+    "codigo_pais": 32,
+    "nombre_pais": " Portugal",
+    "jugadores": [
+      {
+        "nombre": "Cristiano Ronaldo",
+        "ranking": 1,
+        "ranking_eficiencia": 20
+      }
+    ]
+  },
+  {
+    "codigo_pais": 11,
+    "nombre_pais": " Costa de Marfil",
+    "jugadores": [
+      {
+        "nombre": "Didier Drogba",
+        "ranking": 29,
+        "ranking_eficiencia": 21
+      }
+    ]
+  },
+  {
+    "codigo_pais": 4,
+    "nombre_pais": " Arabia Saudita",
+    "jugadores": [
+      {
+        "nombre": "Majed Abdullah",
+        "ranking": 15,
+        "ranking_eficiencia": 23
+      }
+    ]
+  },
+  {
+    "codigo_pais": 37,
+    "nombre_pais": " Trinidad y Tobago",
+    "jugadores": [
+      {
+        "nombre": "Stern John",
+        "ranking": 21,
+        "ranking_eficiencia": 24
+      }
+    ]
+  },
+  {
+    "codigo_pais": 29,
+    "nombre_pais": " Malawi",
+    "jugadores": [
+      {
+        "nombre": "Kinnah Phiri",
+        "ranking": 16,
+        "ranking_eficiencia": 25
+      }
+    ]
+  },
+  {
+    "codigo_pais": 33,
+    "nombre_pais": " República Checa",
+    "jugadores": [
+      {
+        "nombre": "Jan Koller",
+        "ranking": 47,
+        "ranking_eficiencia": 26
+      }
+    ]
+  },
+  {
+    "codigo_pais": 14,
+    "nombre_pais": " España",
+    "jugadores": [
+      {
+        "nombre": "David Villa",
+        "ranking": 37,
+        "ranking_eficiencia": 28
+      }
+    ]
+  },
+  {
+    "codigo_pais": 31,
+    "nombre_pais": " Polonia",
+    "jugadores": [
+      {
+        "nombre": "Robert Lewandowski",
+        "ranking": 14,
+        "ranking_eficiencia": 29
+      }
+    ]
+  },
+  {
+    "codigo_pais": 23,
+    "nombre_pais": " Irak",
+    "jugadores": [
+      {
+        "nombre": "Hussein Saeed",
+        "ranking": 9,
+        "ranking_eficiencia": 30
+      },
+      {
+        "nombre": "Ahmed Radhi",
+        "ranking": 33,
+        "ranking_eficiencia": 41
+      },
+      {
+        "nombre": "Younis Mahmoud",
+        "ranking": 42,
+        "ranking_eficiencia": 49
+      }
+    ]
+  },
+  {
+    "codigo_pais": 18,
+    "nombre_pais": " Honduras",
+    "jugadores": [
+      {
+        "nombre": "Carlos Pavón",
+        "ranking": 40,
+        "ranking_eficiencia": 32
+      }
+    ]
+  },
+  {
+    "codigo_pais": 34,
+    "nombre_pais": " Singapur",
+    "jugadores": [
+      {
+        "nombre": "Fandi Ahmad",
+        "ranking": 49,
+        "ranking_eficiencia": 34
+      }
+    ]
+  },
+  {
+    "codigo_pais": 3,
+    "nombre_pais": " Alemania Oriental",
+    "jugadores": [
+      {
+        "nombre": "Joachim Streich",
+        "ranking": 50,
+        "ranking_eficiencia": 35
+      }
+    ]
+  },
+  {
+    "codigo_pais": 1,
+    "nombre_pais": " Alemania",
+    "jugadores": [
+      {
+        "nombre": "Miroslav Klose",
+        "ranking": 18,
+        "ranking_eficiencia": 37
+      }
+    ]
+  },
+  {
+    "codigo_pais": 35,
+    "nombre_pais": " Suecia",
+    "jugadores": [
+      {
+        "nombre": "Zlatan Ibrahimović",
+        "ranking": 32,
+        "ranking_eficiencia": 38
+      }
+    ]
+  },
+  {
+    "codigo_pais": 38,
+    "nombre_pais": " Uruguay",
+    "jugadores": [
+      {
+        "nombre": "Luis Suárez",
+        "ranking": 28,
+        "ranking_eficiencia": 39
+      }
+    ]
+  },
+  {
+    "codigo_pais": 5,
+    "nombre_pais": " Argentina",
+    "jugadores": [
+      {
+        "nombre": "Lionel Messi",
+        "ranking": 5,
+        "ranking_eficiencia": 40
+      }
+    ]
+  },
+  {
+    "codigo_pais": 17,
+    "nombre_pais": " Guatemala",
+    "jugadores": [
+      {
+        "nombre": "Carlos Ruiz Gutiérrez",
+        "ranking": 25,
+        "ranking_eficiencia": 42
+      }
+    ]
+  },
+  {
+    "codigo_pais": 7,
+    "nombre_pais": " Bosnia y Herzegovina",
+    "jugadores": [
+      {
+        "nombre": "Edin Džeko",
+        "ranking": 35,
+        "ranking_eficiencia": 43
+      }
+    ]
+  },
+  {
+    "codigo_pais": 9,
+    "nombre_pais": " Camerún",
+    "jugadores": [
+      {
+        "nombre": "Samuel Eto'o",
+        "ranking": 44,
+        "ranking_eficiencia": 44
+      }
+    ]
+  },
+  {
+    "codigo_pais": 25,
+    "nombre_pais": " Irlanda",
+    "jugadores": [
+      {
+        "nombre": "Robbie Keane",
+        "ranking": 26,
+        "ranking_eficiencia": 45
+      }
+    ]
+  },
+  {
+    "codigo_pais": 10,
+    "nombre_pais": " Corea del Sur",
+    "jugadores": [
+      {
+        "nombre": "Cha Bum-Kun",
+        "ranking": 38,
+        "ranking_eficiencia": 46
+      }
+    ]
+  },
+  {
+    "codigo_pais": 15,
+    "nombre_pais": " Estados Unidos",
+    "jugadores": [
+      {
+        "nombre": "Clint Dempsey",
+        "ranking": 41,
+        "ranking_eficiencia": 47
+      },
+      {
+        "nombre": "Landon Donovan",
+        "ranking": 43,
+        "ranking_eficiencia": 50
+      }
+    ]
+  },
+  {
+    "codigo_pais": 12,
+    "nombre_pais": " Egipto",
+    "jugadores": [
+      {
+        "nombre": "Hossam Hassan",
+        "ranking": 27,
+        "ranking_eficiencia": 48
+      }
+    ]
+  }
+]
